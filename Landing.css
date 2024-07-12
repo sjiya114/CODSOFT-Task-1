@@ -1,0 +1,105 @@
+.ground {
+    background-size: contain;
+    background: url('https://cdn.pixabay.com/photo/2020/02/04/13/35/connection-4818168_1280.jpg');
+    backdrop-filter: blur(5px);
+    width: 100%;
+    height: 700px;
+    color: white;
+}
+
+.NavBg {
+    background-color: rgb(24, 24, 22);
+    background-size: 80px;
+    background-repeat: no-repeat;
+    background-image: url('https://cdn.pixabay.com/photo/2014/04/02/10/16/fire-303309_640.png');
+    height: 100px;
+}
+
+#about {
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    width: 48%;
+    border: double black 2px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.S1 {
+    color: antiquewhite;
+}
+
+#services {
+    color: white;
+    padding-left: 2%;
+}
+
+.S02 {
+    float: left;
+    border: solid black 2px;
+    background-color: #1b1835;
+    height: fit-content;
+}
+
+.S0 {
+    float: left;
+    width: 20%;
+    height: 100%;
+}
+
+.S01 {
+    float: left;
+    width: 20%;
+    height: 100%;
+    border: 1px black;
+    padding-left: 2%;
+}
+
+.serviceimg {
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -305px;
+    margin-left: -350px;
+    width: 50%;
+    height: 500px;
+    background: rgba(243, 244, 227, 0.3);
+    color: whitesmoke;
+    text-align: center;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.navItems {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+    display: inline-block;
+    ;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contact {
+    background-color: #1b1835;
+    color: aliceblue;
+}
+
+.imgStyle {
+    width: 40px;
+    height: 40px;
+}
